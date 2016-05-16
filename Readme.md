@@ -24,9 +24,13 @@ nginx-lb uses a number of open source projects to work properly:
 * [supervisord] - Supervisord allows users to monitor and control UNIX processes .
 
 ### Docker
-to be used with https://hub.docker.com/r/trydock/nginx-lb/
+Secondary code use to configure Nginx and Supervisord instances in nginx load-balancer.
+source : https://hub.docker.com/r/trydock/docker-nginx-lb/
 
 ### License
 
 GNU/GPL3
 
+#### Contact
+
+debuggerboy (anish.asokan)
